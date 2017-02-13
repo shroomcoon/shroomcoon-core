@@ -3,7 +3,7 @@
 ## Features
 
 * Main loop
-  * requestAnimationFrame only (screw backwards compatibility)
+  * requestAnimationFrame only (screw browser compatibility)
 * Game events
   * update()
   * draw()
