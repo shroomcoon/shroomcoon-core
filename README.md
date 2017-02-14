@@ -9,7 +9,10 @@
   * Game events
     * update
     * tick
-* Game object pool
-* Game.draw()
 * Game state
   * Running/Paused...
+
+Following could be in renderer module?
+
+* Game object pool
+* Game.draw()
