@@ -7,7 +7,9 @@
 * Event emitter
   * on(), emit(), once()...
   * Game events
-    * update()
-    * draw()
+    * update
+    * tick
+* Game object pool
+* Game.draw()
 * Game state
   * Running/Paused...
